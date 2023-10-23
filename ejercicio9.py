@@ -10,4 +10,4 @@ if p5 == 1:
 else:
     sn = "no"
 # Imprime el mensaje
-print(f"Bienvenido a la clase de Introducción a la informática {p1}, tu edad es: {p2} años, eres de la cuidad de: {p3}, tu hobby es: {p4} y te gusta el fultbol: {sn}")
+print(f"Bienvenido a la clase de Introducción a la informática {p1}, tu edad es: {p2} años, eres de la cuidad de: {p3}, tu hobby es: {p4} y te gusta programar: {sn}")
